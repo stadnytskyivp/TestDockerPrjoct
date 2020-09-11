@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="myTest.BasicTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-09-11T13:15:09" hostname="SURGOOD-HOMEPC" time="0.079">
+  <properties/>
+  <testcase name="simpleTest" classname="myTest.BasicTest" time="0.079"/>
+  <system-out><![CDATA[=)
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
